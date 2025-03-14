@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: Mercado Ecológico ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Mercado ecológico) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
@@ -41,7 +41,51 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+#### 1. Contexto.
+Los mercados ecológicos han experimentado un notable crecimiento en los últimos años, impulsados por una mayor conciencia ambiental y una demanda creciente de productos más saludables y sostenibles. En España, este sector ha cobrado especial relevancia, con un aumento en el número de productores y consumidores interesados en un modelo de consumo más responsable y ético. La ciudad en las que nos fijaremos para este estudio será Granada, que tiene unas apuestas con un gran potencial como son el EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/ https://ecomercadogranada.org/ y Valle y Vega, que es una asociación para la producción y comercialización Km 0 de alimentación ecológica en la provincia de Granada. https://valleyvega.org/.  
+
+Este estudio se centra en analizar la evolución y el impacto de los mercados ecológicos.La relación entre los consumidores y los productores dentro de estos mercados es clave para entender cómo se configuran los hábitos de compra y qué estrategias pueden potenciar su crecimiento. Además, exploraremos el papel de la educación y la concienciación en la toma de decisiones de los consumidores, así como la importancia de estos mercados en la economía local. La interacción entre los usuarios y los espacios de compra, ya sean físicos o digitales, será un punto central en nuestra investigación, con el objetivo de ofrecer soluciones que faciliten el acceso a estos productos y promuevan su consumo.  
+
+#### 2. Objetivos.  
+##### 2.1. Objetivos Generales.
+ - Analizar el comportamiento y las motivaciones de los consumidores en los mercados ecológicos.
+ - Evaluar el impacto de estos mercados en la sostenibilidad ambiental.
+ - Identificar las barreras que dificultan el acceso y la participación en los mercados ecológicos.  
+##### 2.2. Objetivos Específicos.
+ - **Objetivos Económicos:**
+   - Determinar cómo los mercados ecológicos influyen en la economía local y en el desarrollo de pequeños productores.
+   - Evaluar el nivel de crecimiento y sostenibilidad económica de estos mercados.
+   - Analizar la disposición de los consumidores a pagar más por productos ecológicos y sus razones.  
+ - **Objetivos Personales y Sociales.**  
+   - Comprender cómo la educación y la concienciación influyen en la decisión de consumir productos ecológicos.
+   - Evaluar los beneficios percibidos por los consumidores en términos de salud y bienestar.  
+
+#### 3. Métodos de Investigación.  
+Utilizaremos métodos de investigación primaria.
+ - **Entrevistas con usuarios y productores:** Recopilación de experiencias, motivaciones y dificultades.
+ - **Encuestas:** Obtención de información cuantitativa sobre hábitos de consumo ecológico.
+ - **Grupos de discusión:** Análisis de percepciones y actitudes hacia los productos ecológicos.
+ - **Estudio comparativo:** Evaluación de las diferencias entre mercados ecológicos y convencionales.
+
+#### 4. Alcance y Enfoque de la Investigación.  
+##### 4.1. Temas de Pregunta.   
+ - ¿Cuáles son los principales factores que influyen en la decisión de comprar productos ecológicos?
+ - ¿Cuáles son las principales barreras para acceder a mercados ecológicos?
+ - ¿Cómo valoran los consumidores la relación calidad-precio en estos mercados?
+ - ¿De qué manera los mercados ecológicos contribuyen a la sostenibilidad y a la economía local?  
+##### 4.2. Claves del Estudio.
+ - **Utilidad:** ¿Los mercados ecológicos satisfacen las expectativas de los consumidores?
+ - **Accesibilidad:** ¿Qué tan fácil es para los consumidores acceder a estos mercados?
+ - **Fidelización:** ¿Qué factores hacen que los consumidores regresen a comprar en estos mercados?  
+
+#### 5. Reclutamiento de Participantes.  
+Los perfiles de usuarios que son objetivo de esta investigación son:
+ - Consumidores frecuentes de productos ecológicos.
+ - Consumidores ocasionales o interesados en el cambio.
+ - Productores y comerciantes.
+
+#### 6. Experiencia Personal en este campo.
+En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar en mercados ecológicos ni tampoco somos especialistas en este sector. Esperamos aprender, entender y valorar un poco más sobre este tipo de mercados y alimentos cuando finalicemos este estudio que vamos a ir realizando durante estos meses. Si es verdad que muy de vez en cuando consumimos productos ecológicos, pero sólo productos como lácteos o frutas y verduras, la mayoría comprados en supermercados y no en mercados ecológicos.
 
 
 ### 1.b Competitive Analysis
