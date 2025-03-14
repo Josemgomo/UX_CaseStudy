@@ -52,11 +52,11 @@ Este estudio se centra en analizar la evolución y el impacto de los mercados ec
  - Evaluar el impacto de estos mercados en la sostenibilidad ambiental.
  - Identificar las barreras que dificultan el acceso y la participación en los mercados ecológicos.  
 ##### 2.2. Objetivos Específicos.
- - **Objetivos Económicos:**
+ - ######Objetivos Económicos:
    - Determinar cómo los mercados ecológicos influyen en la economía local y en el desarrollo de pequeños productores.
    - Evaluar el nivel de crecimiento y sostenibilidad económica de estos mercados.
    - Analizar la disposición de los consumidores a pagar más por productos ecológicos y sus razones.  
- - **Objetivos Personales y Sociales.**  
+ - ######Objetivos Personales y Sociales.
    - Comprender cómo la educación y la concienciación influyen en la decisión de consumir productos ecológicos.
    - Evaluar los beneficios percibidos por los consumidores en términos de salud y bienestar.  
 
