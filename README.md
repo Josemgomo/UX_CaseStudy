@@ -85,6 +85,7 @@ Los perfiles de usuarios que son objetivo de esta investigación son:
 
 #### 6. Experiencia Personal en este campo.
 En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar en mercados ecológicos ni tampoco somos especialistas en este sector. Esperamos aprender, entender y valorar un poco más sobre este tipo de mercados y alimentos cuando finalicemos este estudio que vamos a ir realizando durante estos meses. Si es verdad que muy de vez en cuando consumimos productos ecológicos, pero sólo productos como lácteos o frutas y verduras, la mayoría comprados en supermercados y no en mercados ecológicos.  
+
 -----
 
 ### 1.b Competitive Analysis
