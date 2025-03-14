@@ -39,7 +39,6 @@ Miembros:
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
------
 
 #### 1. Contexto.
 Los mercados ecológicos han experimentado un notable crecimiento en los últimos años, impulsados por una mayor conciencia ambiental y una demanda creciente de productos más saludables y sostenibles. En España, este sector ha cobrado especial relevancia, con un aumento en el número de productores y consumidores interesados en un modelo de consumo más responsable y ético. La ciudad en las que nos fijaremos para este estudio será Granada, que tiene unas apuestas con un gran potencial como son el EcoMercado de Granada https://www.facebook.com/Ecomercadodegranada/ https://ecomercadogranada.org/ y Valle y Vega, que es una asociación para la producción y comercialización Km 0 de alimentación ecológica en la provincia de Granada. https://valleyvega.org/.  
@@ -52,11 +51,11 @@ Este estudio se centra en analizar la evolución y el impacto de los mercados ec
  - Evaluar el impacto de estos mercados en la sostenibilidad ambiental.
  - Identificar las barreras que dificultan el acceso y la participación en los mercados ecológicos.  
 ##### 2.2. Objetivos Específicos.
- - ######Objetivos Económicos:
+ - **Objetivos Económicos:**
    - Determinar cómo los mercados ecológicos influyen en la economía local y en el desarrollo de pequeños productores.
    - Evaluar el nivel de crecimiento y sostenibilidad económica de estos mercados.
    - Analizar la disposición de los consumidores a pagar más por productos ecológicos y sus razones.  
- - ######Objetivos Personales y Sociales.
+ - **Objetivos Personales y Sociales.**
    - Comprender cómo la educación y la concienciación influyen en la decisión de consumir productos ecológicos.
    - Evaluar los beneficios percibidos por los consumidores en términos de salud y bienestar.  
 
@@ -85,8 +84,8 @@ Los perfiles de usuarios que son objetivo de esta investigación son:
  - Productores y comerciantes.
 
 #### 6. Experiencia Personal en este campo.
-En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar en mercados ecológicos ni tampoco somos especialistas en este sector. Esperamos aprender, entender y valorar un poco más sobre este tipo de mercados y alimentos cuando finalicemos este estudio que vamos a ir realizando durante estos meses. Si es verdad que muy de vez en cuando consumimos productos ecológicos, pero sólo productos como lácteos o frutas y verduras, la mayoría comprados en supermercados y no en mercados ecológicos.
-
+En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar en mercados ecológicos ni tampoco somos especialistas en este sector. Esperamos aprender, entender y valorar un poco más sobre este tipo de mercados y alimentos cuando finalicemos este estudio que vamos a ir realizando durante estos meses. Si es verdad que muy de vez en cuando consumimos productos ecológicos, pero sólo productos como lácteos o frutas y verduras, la mayoría comprados en supermercados y no en mercados ecológicos.  
+-----
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
