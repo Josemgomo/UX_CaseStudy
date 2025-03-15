@@ -92,7 +92,7 @@ Las tres opciones que hemos elegido para analizar son el EcoMercado de Granada, 
 
 El enlace a la tabla en figma: https://www.figma.com/board/uA2pO3DyYsrFJYB7j9FYq5/Competitor-Analysis-%5BDIU23%5D-(Copy)?t=m2PsY6S7VI4qWcJ5-1
 
-![image](https://github.com/user-attachments/assets/af7d3974-d508-4b90-b50c-b7812884c0ad)
+![image](https://github.com/user-attachments/assets/c0a0a69f-aa78-4aad-87f0-8b3568915d1d)
 
 Hemos elegido a estas tres asociaciones porque cada una aporta una vision diferente del mercado ecologico:
 - El Ecomercado de Granada está dirigido al consumidor particular y ofrece una gran variedad de actividades diferentes.
