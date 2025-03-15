@@ -87,14 +87,19 @@ En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar e
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+
 Las tres opciones que hemos elegido para analizar son el EcoMercado de Granada, la empresa Valle y Vega y la empresa Bio Procam.
-![image](https://github.com/user-attachments/assets/af7d3974-d508-4b90-b50c-b7812884c0ad)
 
 El enlace a la tabla en figma: https://www.figma.com/board/uA2pO3DyYsrFJYB7j9FYq5/Competitor-Analysis-%5BDIU23%5D-(Copy)?t=m2PsY6S7VI4qWcJ5-1
 
+![image](https://github.com/user-attachments/assets/af7d3974-d508-4b90-b50c-b7812884c0ad)
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos elegido a estas tres asociaciones porque cada una aporta una vision diferente del mercado ecologico:
+- El Ecomercado de Granada está dirigido al consumidor particular y ofrece una gran variedad de actividades diferentes.
+- Valle y Vega es una distribuidora online con una gran variedad de productos.
+- Bio Procam es una corporación mayorista dedicada a la venta de productos a grandes empresas.  
 
+-----
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
