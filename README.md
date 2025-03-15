@@ -92,7 +92,7 @@ Las tres opciones que hemos elegido para analizar son el EcoMercado de Granada, 
 
 El enlace a la tabla en figma: https://www.figma.com/board/uA2pO3DyYsrFJYB7j9FYq5/Competitor-Analysis-%5BDIU23%5D-(Copy)?t=m2PsY6S7VI4qWcJ5-1
 
-![image](https://github.com/user-attachments/assets/c0a0a69f-aa78-4aad-87f0-8b3568915d1d)
+![image](https://github.com/user-attachments/assets/c288baf8-b4d0-4f50-a092-12d9bd08cbd1)
 
 Hemos elegido Ecomercado Granada, Valle&Vega y Bio Procam porque representan modelos de negocio distintos dentro del mercado ecológico en Andalucía, lo que permite un análisis más completo de la competencia.
 
