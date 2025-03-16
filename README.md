@@ -117,6 +117,8 @@ Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por 
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_c_Personas/Persona_2_Isabel_Ruiz.png)
 
+El enlace a Figma de esta tabla sobre Isa es: https://www.figma.com/design/LPrCorlT7uaFMFdzCZGVx7/Isabel-Ruiz-y-su-Journey-Map-P1-DIU?t=IDCNxUazkNT7VIEl-0
+
 En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasionada por el mar, la ingeniería naval y el consumo ecológico. Su amor por los barcos la ha llevado a trabajar en el diseño de embarcaciones sostenibles, mientras que su compromiso con el medioambiente la impulsa a llevar una alimentación más responsable y apoyar la producción local.
 
 -----
@@ -130,6 +132,9 @@ La experiencia de usuario de Daniel, está marcada por su gran interes sobre la 
 
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_d_User_Journey_Map/User_Journey_Map_2_Isabel_Ruiz.png)
+
+
+El enlace a Figma del Journey Map de Isa es: https://www.figma.com/design/LPrCorlT7uaFMFdzCZGVx7/Isabel-Ruiz-y-su-Journey-Map-P1-DIU?t=IDCNxUazkNT7VIEl-0
 
 La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está marcada por su fuerte motivación por llevar una vida más sostenible, pero también por los desafíos y obstáculos que enfrenta a lo largo del proceso de adopción del consumo ecológico.
 
