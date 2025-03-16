@@ -91,10 +91,14 @@ Esta combinación de empresas refleja las diferentes estrategias dentro del sect
 
 ![image](https://github.com/user-attachments/assets/63c99a0f-60af-429d-9563-85f6a5d12892)
 
+El enlace a Figma de esta tabla sobre Daniel es: https://www.figma.com/design/6oMmsQ7bTYCRNfW3A8yB42/Persona-%26-User-Journey-Map-McDonald-(Copy)?m=auto&t=Kgihcy13ouHy1rS8-6
+
 Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo. A parte, la motivación de mejorar su salud haciendo más deporte, lo que implica llevar una alimentación saludable y más natural.  
 
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_c_Personas/Persona_2_Isabel_Ruiz.png)
+
+El enlace a Figma de esta tabla sobre Isa es: https://www.figma.com/design/LPrCorlT7uaFMFdzCZGVx7/Isabel-Ruiz-y-su-Journey-Map-P1-DIU?t=IDCNxUazkNT7VIEl-0
 
 En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasionada por el mar, la ingeniería naval y el consumo ecológico. Su amor por los barcos la ha llevado a trabajar en el diseño de embarcaciones sostenibles, mientras que su compromiso con el medioambiente la impulsa a llevar una alimentación más responsable y apoyar la producción local.
 
@@ -107,8 +111,13 @@ En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasio
 
 La experiencia de usuario de Daniel, está marcada por su gran interes sobre la cultura de los mercados de productos ecológicos en su país, lo que le inspira aprender más sobre este mundo y buscar lugares similares tanto dentro como buera de España y enriquecer su cultura.
 
+El enlace a Figma del Journey Map de Isa es: https://www.figma.com/design/6oMmsQ7bTYCRNfW3A8yB42/Persona-%26-User-Journey-Map-McDonald-(Copy)?m=auto&t=Kgihcy13ouHy1rS8-6
+
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_d_User_Journey_Map/User_Journey_Map_2_Isabel_Ruiz.png)
+
+
+El enlace a Figma del Journey Map de Isa es: https://www.figma.com/design/LPrCorlT7uaFMFdzCZGVx7/Isabel-Ruiz-y-su-Journey-Map-P1-DIU?t=IDCNxUazkNT7VIEl-0
 
 La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está marcada por su fuerte motivación por llevar una vida más sostenible, pero también por los desafíos y obstáculos que enfrenta a lo largo del proceso de adopción del consumo ecológico.
 
@@ -118,11 +127,9 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento (en formato pdf): [(https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_e_Usability_Review/Usability-review-valle-y-vega.pdf)]
 >>> - URL y Valoración numérica obtenida: 70 (Good)
 >>> - Comentario sobre la revisión: La página se demora en cargar si no tenemos una conexión lo suficientemente rápida y eso es algo muy frustrante. Hay una gran cantidad de apartados e imágenes que pueden hacer que un usuario que sea nuevo pueda llegar a sentir agobio y confusión, sin embargo, una vez que nos adaptamos podemos observar que se trata de una página con mucha información acerca de los productos, por lo que difícilmente te quedes con dudas sobre un producto. En resumen, como puntos fuertes podríamos destacar el lenguaje claro y amigable, la buena legibilidad y diseño, y una estructura de contenido adecuada. Como puntos débiles podríamos decir que la navegación podría ser mejorable, puede llegar a ser confusa y teniendo que volver varias veces al Inicio. Consideramos que la puntuación obtenida es justa con Valle y Vega
-
 
 ### Briefing
 
