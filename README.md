@@ -112,6 +112,8 @@ Esta combinación de empresas refleja las diferentes estrategias dentro del sect
 
 ![image](https://github.com/user-attachments/assets/63c99a0f-60af-429d-9563-85f6a5d12892)
 
+El enlace a Figma de esta tabla sobre Daniel es: https://www.figma.com/design/6oMmsQ7bTYCRNfW3A8yB42/Persona-%26-User-Journey-Map-McDonald-(Copy)?m=auto&t=Kgihcy13ouHy1rS8-6
+
 Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo. A parte, la motivación de mejorar su salud haciendo más deporte, lo que implica llevar una alimentación saludable y más natural.  
 
 ----
@@ -129,6 +131,8 @@ En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasio
 ![image](https://github.com/user-attachments/assets/c21af77c-c4af-43a4-993f-e8e7e5943b4f)
 
 La experiencia de usuario de Daniel, está marcada por su gran interes sobre la cultura de los mercados de productos ecológicos en su país, lo que le inspira aprender más sobre este mundo y buscar lugares similares tanto dentro como buera de España y enriquecer su cultura.
+
+El enlace a Figma del Journey Map de Isa es: https://www.figma.com/design/6oMmsQ7bTYCRNfW3A8yB42/Persona-%26-User-Journey-Map-McDonald-(Copy)?m=auto&t=Kgihcy13ouHy1rS8-6
 
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_d_User_Journey_Map/User_Journey_Map_2_Isabel_Ruiz.png)
