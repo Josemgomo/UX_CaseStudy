@@ -140,9 +140,9 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - Enlace al documento (en formato pdf): [(https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_e_Usability_Review/Usability-review-valle-y-vega.pdf)]
+>>> - URL y Valoración numérica obtenida: 70 (Good)
+>>> - Comentario sobre la revisión: La página se demora en cargar si no tenemos una conexión lo suficientemente rápida y eso es algo muy frustrante. Hay una gran cantidad de apartados e imágenes que pueden hacer que un usuario que sea nuevo pueda llegar a sentir agobio y confusión, sin embargo, una vez que nos adaptamos podemos observar que se trata de una página con mucha información acerca de los productos, por lo que difícilmente te quedes con dudas sobre un producto. En resumen, como puntos fuertes podríamos destacar el lenguaje claro y amigable, la buena legibilidad y diseño, y una estructura de contenido adecuada. Como puntos débiles podríamos decir que la navegación podría ser mejorable, puede llegar a ser confusa y teniendo que volver varias veces al Inicio. Consideramos que la puntuación obtenida es justa con Valle y Vega  
 
 <br>
 
