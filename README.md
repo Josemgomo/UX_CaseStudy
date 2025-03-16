@@ -110,7 +110,7 @@ Esta combinación de empresas refleja las diferentes estrategias dentro del sect
 ![Método UX](img/Persona.png) 
 -----
 
-![image](https://github.com/user-attachments/assets/625a5fea-d7df-4cc5-9fde-064a36c8546c)
+![image](https://github.com/user-attachments/assets/63c99a0f-60af-429d-9563-85f6a5d12892)
 
 Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo.  
 
