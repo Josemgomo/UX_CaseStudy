@@ -113,7 +113,7 @@ Esta combinación de empresas refleja las diferentes estrategias dentro del sect
 ![image](https://github.com/user-attachments/assets/63c99a0f-60af-429d-9563-85f6a5d12892)
 
 Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo. A parte, la motivación de mejorar su salud haciendo más deporte, lo que implica llevar una alimentación saludable y más natural.   
-
+-----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_c_Personas/Persona_2_Isabel_Ruiz.png)
 
 En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasionada por el mar, la ingeniería naval y el consumo ecológico. Su amor por los barcos la ha llevado a trabajar en el diseño de embarcaciones sostenibles, mientras que su compromiso con el medioambiente la impulsa a llevar una alimentación más responsable y apoyar la producción local.
@@ -122,8 +122,10 @@ En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasio
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+-----
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_d_User_Journey_Map/User_Journey_Map_2_Isabel_Ruiz.png)
 
+La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está marcada por su fuerte motivación por llevar una vida más sostenible, pero también por los desafíos y obstáculos que enfrenta a lo largo del proceso de adopción del consumo ecológico.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
