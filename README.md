@@ -126,7 +126,7 @@ En segundo lugar tenemos a Isa, una joven granadina afincada en Málaga y apasio
 ----
 ![image](https://github.com/user-attachments/assets/c21af77c-c4af-43a4-993f-e8e7e5943b4f)
 
-La experiencia de usuario de Daniel, está marcada por su gran interes sobre la cultura de los mercados de productos ecológicos en su país, lo que le inspira aprender más sobre este mundo y buscar lugares similares tanto dentro como buera de España y dnriquecer su cultura.
+La experiencia de usuario de Daniel, está marcada por su gran interes sobre la cultura de los mercados de productos ecológicos en su país, lo que le inspira aprender más sobre este mundo y buscar lugares similares tanto dentro como buera de España y enriquecer su cultura.
 
 ----
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_d_User_Journey_Map/User_Journey_Map_2_Isabel_Ruiz.png)
