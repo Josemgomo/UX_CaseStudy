@@ -112,7 +112,7 @@ Esta combinación de empresas refleja las diferentes estrategias dentro del sect
 
 ![image](https://github.com/user-attachments/assets/63c99a0f-60af-429d-9563-85f6a5d12892)
 
-Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo.  
+Por una parte, hemos seleccionado a Daniel porque es una persona apasionada por la cultura, la agricultura y venta de productos ecológicos es una forma de aprender las costumbres y la riqueza alimentaria del resto de países del mundo. A parte, la motivación de mejorar su salud haciendo más deporte, lo que implica llevar una alimentación saludable y más natural.   
 
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P1/1_c_Personas/Persona_2_Isabel_Ruiz.png)
 
