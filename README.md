@@ -90,10 +90,6 @@ En este campo vamos un poco "atados de pies y manos" ya que no solemos comprar e
 
 Las tres opciones que hemos elegido para analizar son el EcoMercado de Granada, la empresa Valle y Vega y la empresa Bio Procam.
 
-El enlace a la tabla en figma: https://www.figma.com/board/uA2pO3DyYsrFJYB7j9FYq5/Competitor-Analysis-%5BDIU23%5D-(Copy)?t=m2PsY6S7VI4qWcJ5-1
-
-![image](https://github.com/user-attachments/assets/c288baf8-b4d0-4f50-a092-12d9bd08cbd1)
-
 Hemos elegido Ecomercado Granada, Valle&Vega y Bio Procam porque representan modelos de negocio distintos dentro del mercado ecológico en Andalucía, lo que permite un análisis más completo de la competencia.
 
 EcoMercado Granada se especializa en la venta física a consumidores finales a través de mercados urbanos. Su modelo fomenta la proximidad entre productores y clientes, promoviendo la compra directa de productos ecológicos. Esta estrategia fortalece el comercio local y la sostenibilidad.
@@ -103,6 +99,10 @@ Por otro lado, Valle&Vega apuesta por la venta online, ofreciendo una gran varie
 Finalmente, Bio Procam opera como mayorista, especializándose en productos subtropicales ecológicos para grandes distribuidores. Su enfoque está en la exportación y abastecimiento a supermercados, asegurando que los productos ecológicos lleguen a un público más amplio.
 
 Esta combinación de empresas refleja las diferentes estrategias dentro del sector ecológico y su impacto en el mercado.
+
+El enlace a la tabla en figma: https://www.figma.com/board/uA2pO3DyYsrFJYB7j9FYq5/Competitor-Analysis-%5BDIU23%5D-(Copy)?t=m2PsY6S7VI4qWcJ5-1
+
+![image](https://github.com/user-attachments/assets/c288baf8-b4d0-4f50-a092-12d9bd08cbd1)
 
 -----
 
