@@ -164,8 +164,6 @@ SUPERLÓGICO - Tu Mercado Ecológico de Granada
 ![image](https://github.com/user-attachments/assets/4881e765-1ee3-4b39-ba9e-fa4f2eb5fa57)
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Grid/Feedback_Capture_Grid-DIU1_JoseAngel.png
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
 ![image](https://github.com/user-attachments/assets/913eb91a-cfe8-403a-bda6-a3b75dfef09d)
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png
  
@@ -184,8 +182,13 @@ https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Ca
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+La User Task Matrix es una herramienta que nos permite organizar y representar las acciones principales que pueden realizar los diferentes tipos de usuarios dentro de la plataforma. 
+![image](https://github.com/user-attachments/assets/050ea87d-47d1-42d9-ba82-ed65756a7289)
+User Task Matrix: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_1_User_Task_Matrix
 
+El User Task Flow muestra, de manera visual y secuencial, los pasos que sigue un usuario para completar una tarea específica dentro de la plataforma.
+![image](https://github.com/user-attachments/assets/154157cf-2ea7-431a-85e3-e517ffdb71c5)
+User Flow Flow: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_2_User_Task_Flow
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
