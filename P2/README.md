@@ -66,9 +66,9 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
   
 ### Prototipo Lo-FI Wireframe 
   Los bocetos que se muestran son ejemplos de como sería el diseño de nuestra web en el inicio de sesión (ejemplo de la izquierda) y de un listado de productos ordenados por precio y mostrados en forma de lista (ejemplo de la derecha).  
-  ![image]()
-  - El enlace a este recurso en Figma es: 
-  - Y en formato PDF: 
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/6-Bocetos/Bocetos.png)
+  - El enlace a este recurso en Figma es: https://www.figma.com/design/LOf3aZGqCJpwkVB9QD9S1h/Bocetos?node-id=0-1&p=f&t=ndWnUhpdYvCJ1GTV-0
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/6-Bocetos/Bocetos.pdf
 
 ### Conclusiones  
 Esta fase del proyecto nos ha permitido adentrarnos de lleno en el enfoque de diseño centrado en el usuario, poniendo especial atención en sus necesidades reales y en cómo se relaciona con nuestra plataforma. A través del análisis detallado de tareas, el desarrollo de flujos de navegación y la creación de prototipos, hemos logrado delimitar con mayor claridad las funcionalidades esenciales que conformarán la experiencia de uso en SUPERLÓGICO.
