@@ -31,14 +31,26 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
   - El enlace al archivo de excel: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.xlsx
   - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.pdf
 * User/Task flow
-
-
+  ----
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_2_User_Task_Flow/User_Flow_Kit-DIU1_JoseAngel.png)
+  - El enlace al archivo de figma: https://www.figma.com/design/jnoOyq70GaBYII1pbfsgRw/User_Flow_Kit-DIU1_JoseAngel?node-id=0-1&t=AiFczH8YKMuXCjWD-1
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_2_User_Task_Flow/User_Flow_Kit-DIU1_JoseAngel.pdf
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
-
-
+* Sitemap
+  ----
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_1_Site_Map/Site_Map-DIU1_JoseAngel.png)
+  - El enlace al archivo de figma: https://www.figma.com/design/mVL7zAJs8z9rPNRUyNjh7m/Site_Map-DIU1_JoseAngel?t=AiFczH8YKMuXCjWD-1
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_1_Site_Map/Site_Map-DIU1_JoseAngel.pdf
+  
+* Labelling
+  ----
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_1.png)
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_2.png)
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_3.png)
+  - El enlace al archivo de excel: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling-DIU1_JoseAngel.xlsx
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling-DIU1_JoseAngel.pdf
+  
 ### Prototipo Lo-FI Wireframe 
 
 
