@@ -176,9 +176,7 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 
 ![image](https://github.com/user-attachments/assets/9f8c7820-4fd5-4f31-99ba-6d199094dd8c)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.png
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
