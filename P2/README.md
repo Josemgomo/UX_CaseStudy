@@ -20,6 +20,7 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
   ----
   Basandonos en el Feedback-Capture Grid y en el mapa de empatia vamos a comenzar nuestro proyecto de SUPERLÓGICO, un supermercado ubicado en Cenes de la Vega que ofrece productos ecológicos producidos en la Vega de Granada y que cuentan con certificación ecológica de la UE. Los 
   productos van desde alimentos hasta artículos de limpieza y cuidado personal. Además, cuenta una página web para poder realizar pedidos a domicilio.
+  
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.png)
   - El enlace a este recurso en Figma es: https://www.figma.com/design/TWthvaIOlNCPmf1D7uSZN0/Scope_Canvas-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0  
   - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.pdf
@@ -48,6 +49,7 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 * Sitemap
   ----
   Lo siguiente es el sitemap de nuestra pagina web que muestra el esquema principal que sigue el diseño de la pagina.
+  
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_1_Site_Map/Site_Map-DIU1_JoseAngel.png)
   - El enlace al archivo de figma: https://www.figma.com/design/mVL7zAJs8z9rPNRUyNjh7m/Site_Map-DIU1_JoseAngel?t=AiFczH8YKMuXCjWD-1
   - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_1_Site_Map/Site_Map-DIU1_JoseAngel.pdf
@@ -55,6 +57,7 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 * Labelling
   ----
   Aqui encontramos los diferentes apartados del sitemap con una breve descripcion de sus funcionalidades.
+  
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_1.png)
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_2.png)
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/5_2_Labelling/Labelling_Parte_3.png)
