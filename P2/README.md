@@ -1,6 +1,7 @@
 ## DIU - Practica2, entregables
 
-### Ideación 
+Tras el trabajo realizado en la práctica anterior, hemos podido obtener una visión más precisa y completa sobre las necesidades, hábitos y expectativas de nuestros potenciales clientes. Nos a ayudado a identificar qué valoran los consumidores interesados en productos ecológicos, tanto en el ámbito físico como en el digital. El análisis de competencia nos ha permitido detectar carencias, errores de usabilidad y oportunidades de mejorarlo.
+
 * Malla receptora de información
   ----
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Grid/Feedback_Capture_Grid-DIU1_JoseAngel.png)
@@ -24,7 +25,11 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+  ----
+
+  - El enlace al archivo de excel: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.xlsx
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.pdf
 * User/Task flow
 
 
