@@ -174,8 +174,7 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ### 2.b ScopeCanvas
 ----
 
-![image](https://github.com/user-attachments/assets/ff597972-786a-4f5f-ab19-38c6aef8274f)
-
+![image](https://github.com/user-attachments/assets/9f8c7820-4fd5-4f31-99ba-6d199094dd8c)
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
