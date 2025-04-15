@@ -27,7 +27,7 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 
 * User Task Matrix
   ----
-
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.png)
   - El enlace al archivo de excel: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.xlsx
   - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/4_1_User_Task_Matrix/User_Task_Matrix-DIU1_JoseAngel.pdf
 * User/Task flow
