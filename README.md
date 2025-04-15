@@ -5,15 +5,15 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercado ecológico)
 
 Grupo: DIU1_JoséÁngel.  Curso: 2024/25 
 
-Actualizado: 16/03/2025
+Actualizado: 15/04/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**SUPERLÓGICO - Tu supermercado ecológico de Granada.**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Supermercado ubicado en Cenes de la Vega que ofrece productos ecológicos producidos en la Vega de Granada y que cuentan con certificación ecológica de la UE. Los productos van desde alimentos hasta artículos de limpieza y cuidado personal. Además, cuenta una página web para poder realizar pedidos a domicilio.   
 
 Logotipo: 
 
