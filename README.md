@@ -165,9 +165,8 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![image](https://github.com/user-attachments/assets/9e9ec3f5-fcce-4fb0-9458-8c360a395649)
+
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
