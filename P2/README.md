@@ -1,8 +1,16 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+  ----
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Grid/Feedback_Capture_Grid-DIU1_JoseAngel.png)
+  El enlace a este recurso en Figma es: https://www.figma.com/design/vvHa1r8lZOjI11UTfha75i/Feedback_Capture_Grid-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0
+  Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Grid/Feedback_Capture_Grid-DIU1_JoseAngel.pdf   
 * Mapa de empatía
+  ----
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png)
+  El enlace a este recurso en Figma es: [](https://www.figma.com/board/KgWgy5UDJO2RiPVUjRPPRk/Empathy_Map-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0)
+  Y en formato PDF: [](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png)  
 * Point of View 
 
 
