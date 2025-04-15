@@ -161,8 +161,7 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-![image](https://github.com/user-attachments/assets/ed15eb8b-7f5e-4f4f-bbf2-0cabdfd20500)
-
+![image](https://github.com/user-attachments/assets/4881e765-1ee3-4b39-ba9e-fa4f2eb5fa57)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
