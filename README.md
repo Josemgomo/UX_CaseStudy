@@ -183,12 +183,16 @@ https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Ca
 -----
 
 La User Task Matrix es una herramienta que nos permite organizar y representar las acciones principales que pueden realizar los diferentes tipos de usuarios dentro de la plataforma. 
+
 ![image](https://github.com/user-attachments/assets/050ea87d-47d1-42d9-ba82-ed65756a7289)
-User Task Matrix: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_1_User_Task_Matrix
+
+Enlace User Task Matrix: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_1_User_Task_Matrix
 
 El User Task Flow muestra, de manera visual y secuencial, los pasos que sigue un usuario para completar una tarea específica dentro de la plataforma.
+
 ![image](https://github.com/user-attachments/assets/154157cf-2ea7-431a-85e3-e517ffdb71c5)
-User Flow Flow: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_2_User_Task_Flow
+
+Enlace User Flow Flow: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_2_User_Task_Flow
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
