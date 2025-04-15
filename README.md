@@ -167,9 +167,7 @@ https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Gr
 ![image](https://github.com/user-attachments/assets/913eb91a-cfe8-403a-bda6-a3b75dfef09d)
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png
  
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Vamos a comenzar nuestro proyecto de SUPERLÓGICO, un supermercado ubicado en Cenes de la Vega que ofrece productos ecológicos producidos en la Vega de Granada y que cuentan con certificación ecológica de la UE. Los productos van desde alimentos hasta artículos de limpieza y cuidado personal. Además, cuenta una página web para poder realizar pedidos a domicilio.
 
 ### 2.b ScopeCanvas
 ----
