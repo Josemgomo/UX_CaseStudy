@@ -159,7 +159,6 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
 ----
 
 ![image](https://github.com/user-attachments/assets/9e9ec3f5-fcce-4fb0-9458-8c360a395649)
