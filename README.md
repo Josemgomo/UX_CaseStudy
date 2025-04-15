@@ -162,10 +162,12 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ----
 
 ![image](https://github.com/user-attachments/assets/4881e765-1ee3-4b39-ba9e-fa4f2eb5fa57)
+https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Grid/Feedback_Capture_Grid-DIU1_JoseAngel.png
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 ![image](https://github.com/user-attachments/assets/913eb91a-cfe8-403a-bda6-a3b75dfef09d)
+https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png
  
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
