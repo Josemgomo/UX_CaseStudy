@@ -192,18 +192,19 @@ El User Task Flow muestra, de manera visual y secuencial, los pasos que sigue un
 
 ![image](https://github.com/user-attachments/assets/154157cf-2ea7-431a-85e3-e517ffdb71c5)
 
-Enlace User Flow Flow: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_2_User_Task_Flow
+Enlace User Task Flow: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/4_2_User_Task_Flow
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
 ----
+![image](https://github.com/user-attachments/assets/fb6c8cc2-4c83-445b-9cdd-b694b5d2d308)
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Enlace Sitemap: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/5_1_Site_Map
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![image](https://github.com/user-attachments/assets/e332a75f-810f-4244-a844-2042570981fa)
+![image](https://github.com/user-attachments/assets/19bd956a-56dd-46ac-98c3-36cf89a2c3d8)
+![image](https://github.com/user-attachments/assets/21400f88-ab2a-4940-a3a9-22d61af6373c)
 
+Enlace Labelling: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/5_2_Labelling
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
