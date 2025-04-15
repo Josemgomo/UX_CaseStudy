@@ -161,11 +161,8 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-![image](https://github.com/user-attachments/assets/9e9ec3f5-fcce-4fb0-9458-8c360a395649)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-![image](https://github.com/user-attachments/assets/ff127b89-83da-4996-b42e-72cd869eec41)
  
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
@@ -178,7 +175,6 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
-![image](https://github.com/user-attachments/assets/6e7b62db-b90c-4a7f-af21-fcf781f690f5)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
