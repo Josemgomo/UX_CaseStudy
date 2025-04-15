@@ -156,7 +156,7 @@ La experiencia de usuario de Isa, tal y como se refleja en el Journey Map, está
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+SUPERLÓGICO - Tu Mercado Ecológico de Granada
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
