@@ -70,6 +70,6 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 ### Conclusiones  
 Esta fase del proyecto nos ha permitido adentrarnos de lleno en el enfoque de diseño centrado en el usuario, poniendo especial atención en sus necesidades reales y en cómo se relaciona con nuestra plataforma. A través del análisis detallado de tareas, el desarrollo de flujos de navegación y la creación de prototipos, hemos logrado delimitar con mayor claridad las funcionalidades esenciales que conformarán la experiencia de uso en SUPERLÓGICO.
 
-Para ello, hemos hecho uso de diversas herramientas de diseño y prototipado como Figma, excel,, que han sido clave para representar de forma visual y estructurada todos los elementos del sistema. Gracias a estas herramientas, hemos podido construir bocetos, esquemas de navegación y mapas de tareas que aportan una vision de nuestro proyecto.
+Para ello, hemos hecho uso de diversas herramientas de diseño y prototipado como Figma y excel que han sido clave para representar de forma visual y estructurada todos los elementos del sistema. Gracias a estas herramientas, hemos podido construir bocetos, esquemas de navegación y mapas de tareas que aportan una vision de nuestro proyecto.
 
 En conjunto, esta etapa ha sido crucial para transformar nuestras ideas iniciales en una estructura concreta y funcional, sentando las bases para una interfaz accesible, intuitiva y fiel a los principios de sostenibilidad, cercanía y compromiso local que definen el proyecto SUPERLÓGICO.
