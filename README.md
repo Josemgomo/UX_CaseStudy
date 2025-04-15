@@ -186,14 +186,6 @@ https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Ca
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-| Tareas                      |  |  |  | 
-|-----------------------------|------------|---------------|-----------|
-|                | H          | M             | L         |
-|  | H          | H             | M         |
-|               | H          | -             | -         |
-|                  | -          | H             | -         |
-|           | H          | -             | -         |
-|                  | H          | -             | -         |
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
