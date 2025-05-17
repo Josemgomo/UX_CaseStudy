@@ -16,10 +16,10 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 
 
 ### PROPUESTA DE VALOR
+
 * ScopeCanvas
   ----
-  Basandonos en el Feedback-Capture Grid y en el mapa de empatia vamos a comenzar nuestro proyecto de SUPERLÓGICO, un supermercado ubicado en Cenes de la Vega que ofrece productos ecológicos producidos en la Vega de Granada y que cuentan con certificación ecológica de la UE. Los 
-  productos van desde alimentos hasta artículos de limpieza y cuidado personal. Además, cuenta una página web para poder realizar pedidos a domicilio.
+  Basandonos en el Feedback-Capture Grid y en el mapa de empatia vamos a comenzar nuestro proyecto de SUPERLÓGICO.
   
   ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.png)
   - El enlace a este recurso en Figma es: https://www.figma.com/design/TWthvaIOlNCPmf1D7uSZN0/Scope_Canvas-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0  
@@ -27,6 +27,27 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 
 
 ### TASK ANALYSIS
+
+**Vivir bien tú, vivir bien el planeta.**
+En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
+Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
+
+¿Qué tenemos para ofrecerte?
+
+🛒 Supermercado ecológico en Cenes de la Vega
+Con productos seleccionados para nutrir tu cuerpo, fortalecer tu sistema inmunológico y cuidar tu salud desde el origen: lo que comes.
+
+🌱 Aprendizaje y autonomía
+Talleres, huertos y experiencias donde aprender a cultivar, recolectar y preparar tus propios alimentos. Alimentación real, sin químicos, sin artificios. Como antes, pero con el conocimiento de ahora.
+
+🧘‍♀️ Bienestar integral
+Actividades de ocio consciente que promueven una vida más activa, más equilibrada, y más conectada con tus verdaderas necesidades físicas y emocionales.
+
+🤝 Una comunidad para compartir salud y valores
+No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren lo mismo que tú vivir mejor, cuidarse y cuidar el planeta.
+
+**SUPERLÓGICO.**
+***Porque ser saludable y respetuoso es lo más lógico.***
 
 * User Task Matrix
   ----
