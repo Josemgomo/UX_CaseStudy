@@ -17,17 +17,6 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 
 ### PROPUESTA DE VALOR
 
-* ScopeCanvas
-  ----
-  Basandonos en el Feedback-Capture Grid y en el mapa de empatia vamos a comenzar nuestro proyecto de SUPERLÓGICO.
-  
-  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.png)
-  - El enlace a este recurso en Figma es: https://www.figma.com/design/TWthvaIOlNCPmf1D7uSZN0/Scope_Canvas-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0  
-  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.pdf
-
-
-### TASK ANALYSIS
-
 **Vivir bien tú, vivir bien el planeta.**
 En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
 Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
@@ -48,6 +37,17 @@ No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren
 
 **SUPERLÓGICO.**
 ***Porque ser saludable y respetuoso es lo más lógico.***
+
+* ScopeCanvas
+  ----
+  Basandonos en el Feedback-Capture Grid y en el mapa de empatia vamos a comenzar nuestro proyecto de SUPERLÓGICO.
+  
+  ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.png)
+  - El enlace a este recurso en Figma es: https://www.figma.com/design/TWthvaIOlNCPmf1D7uSZN0/Scope_Canvas-DIU1_JoseAngel?t=oXXBQz0BQD7BfojV-0  
+  - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/3_Scope_Canvas/Scope_Canvas-DIU1_JoseAngel.pdf
+
+
+### TASK ANALYSIS
 
 * User Task Matrix
   ----
