@@ -17,7 +17,7 @@ Tras el trabajo realizado en la práctica anterior, hemos podido obtener una vis
 
 ### PROPUESTA DE VALOR
 
-**Vivir bien tú, vivir bien el planeta.**
+**Vivir bien tú, vivir bien el planeta.**  
 En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
 Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
 
@@ -35,7 +35,7 @@ Actividades de ocio consciente que promueven una vida más activa, más equilibr
 🤝 Una comunidad para compartir salud y valores
 No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren lo mismo que tú vivir mejor, cuidarse y cuidar el planeta.
 
-**SUPERLÓGICO.**
+**SUPERLÓGICO.**  
 ***Porque ser saludable y respetuoso es lo más lógico.***
 
 * ScopeCanvas
