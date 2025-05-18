@@ -33,7 +33,8 @@ No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![image](https://github.com/user-attachments/assets/aa9fc222-d78a-437b-89a7-7d76affc06fd)
+
 
 Miembros:
  * :bust_in_silhouette: José María Gómez Molina  :octocat: https://github.com/Josemgomo      
