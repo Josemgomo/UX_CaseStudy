@@ -10,28 +10,6 @@
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
-# 0. Propuesta de Valor (BORRAR)
-**Vivir bien tú, vivir bien el planeta.**  
-En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
-Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
-
-¿Qué tenemos para ofrecerte?
-
-🛒 Supermercado ecológico en Cenes de la Vega
-Con productos seleccionados para nutrir tu cuerpo, fortalecer tu sistema inmunológico y cuidar tu salud desde el origen: lo que comes.
-
-🌱 Aprendizaje y autonomía
-Talleres, huertos y experiencias donde aprender a cultivar, recolectar y preparar tus propios alimentos. Alimentación real, sin químicos, sin artificios. Como antes, pero con el conocimiento de ahora.
-
-🧘‍♀️ Bienestar integral
-Actividades de ocio consciente que promueven una vida más activa, más equilibrada, y más conectada con tus verdaderas necesidades físicas y emocionales.
-
-🤝 Una comunidad para compartir salud y valores
-No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren lo mismo que tú vivir mejor, cuidarse y cuidar el planeta.
-
-**SUPERLÓGICO.**  
-***Porque ser saludable y respetuoso es lo más lógico.***
-
 # 1. Moodboard.
 ## 1. Selección de Fuentes (Google Fonts)
 
