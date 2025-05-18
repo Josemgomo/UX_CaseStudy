@@ -260,9 +260,13 @@ Enlace Labelling: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/5_2_L
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
+Esta landing page ha sido diseñada con el objetivo de atraer, informar y motivar a los usuarios a participar en actividades ecológicas ofrecidas por SUPERLÓGICO. La estructura visual y el contenido están cuidadosamente pensados para transmitir los valores de sostenibilidad, comunidad y bienestar.
+- Se han utilizado imágenes relacionadas con la agricultura ecológica, la comunidad y el bienestar natural para conectar emocionalmente con el usuario y reforzar el mensaje ecológico de la marca.
+- La información se organiza en bloques numerados (01, 02) que guían al usuario a través de un recorrido visual intuitivo y ordenado.
+- El botón "QUIERO PARTICIPAR" está estratégicamente colocado en una zona visible
+- El texto busca inspirar al usuario a actuar, utilizando frases positivas que refuercen sus valores.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
+![image](https://github.com/user-attachments/assets/6f3349ba-f15b-4d5a-8dd0-8d21518cc762)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
