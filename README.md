@@ -13,7 +13,23 @@ Proyecto:
 
 Descripción: 
 
-SUPERLÓGICO es un supermercado ecológico situado en Cenes de la Vega que apuesta por el consumo responsable y de proximidad. Ofrece una amplia gama de productos ecológicos cultivados y elaborados en la Vega de Granada, desde alimentos frescos y de temporada, hasta productos de limpieza del hogar y cuidado personal. Todos los artículos cuentan con certificación ecológica de la Unión Europea, garantizando su origen sostenible y respetuoso con el medio ambiente.
+**Vivir bien tú, vivir bien el planeta.**  
+En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
+Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
+
+¿Qué tenemos para ofrecerte?
+
+🛒 Supermercado ecológico en Cenes de la Vega
+Con productos seleccionados para nutrir tu cuerpo, fortalecer tu sistema inmunológico y cuidar tu salud desde el origen: lo que comes.
+
+🌱 Aprendizaje y autonomía
+Talleres, huertos y experiencias donde aprender a cultivar, recolectar y preparar tus propios alimentos. Alimentación real, sin químicos, sin artificios. Como antes, pero con el conocimiento de ahora.
+
+🧘‍♀️ Bienestar integral
+Actividades de ocio consciente que promueven una vida más activa, más equilibrada, y más conectada con tus verdaderas necesidades físicas y emocionales.
+
+🤝 Una comunidad para compartir salud y valores
+No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren lo mismo que tú vivir mejor, cuidarse y cuidar el planeta.
 
 Logotipo: 
 
