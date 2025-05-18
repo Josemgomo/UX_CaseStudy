@@ -182,11 +182,25 @@ https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_1_Feedback_Capture_Gr
 
 ![image](https://github.com/user-attachments/assets/913eb91a-cfe8-403a-bda6-a3b75dfef09d)
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/2_2_Empathy_Mapk_Capture_Grid/Empathy_Map-DIU1_JoseAngel.png
- 
-Vamos a comenzar nuestro proyecto de SUPERLÓGICO, un supermercado ubicado en Cenes de la Vega que ofrece productos ecológicos producidos en la Vega de Granada y que cuentan con certificación ecológica de la UE. Los productos van desde alimentos hasta artículos de limpieza y cuidado personal. Además, cuenta una página web para poder realizar pedidos a domicilio.
 
 ### 2.b ScopeCanvas
-----
+---- 
+En SUPERLÓGICO creemos que cuidar del planeta y cuidar de ti mismo no son caminos distintos: son dos partes de la misma vida coherente.
+Por eso, unimos lo mejor de la tradición con la innovación, la sostenibilidad con la salud, y tu bienestar personal con el del mundo que te rodea.
+
+¿Qué tenemos para ofrecerte?
+
+🛒 Supermercado ecológico en Cenes de la Vega
+Con productos seleccionados para nutrir tu cuerpo, fortalecer tu sistema inmunológico y cuidar tu salud desde el origen: lo que comes.
+
+🌱 Aprendizaje y autonomía
+Talleres, huertos y experiencias donde aprender a cultivar, recolectar y preparar tus propios alimentos. Alimentación real, sin químicos, sin artificios. Como antes, pero con el conocimiento de ahora.
+
+🧘‍♀️ Bienestar integral
+Actividades de ocio consciente que promueven una vida más activa, más equilibrada, y más conectada con tus verdaderas necesidades físicas y emocionales.
+
+🤝 Una comunidad para compartir salud y valores
+No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren lo mismo que tú vivir mejor, cuidarse y cuidar el planeta.
 
 ![image](https://github.com/user-attachments/assets/9f8c7820-4fd5-4f31-99ba-6d199094dd8c)
 
