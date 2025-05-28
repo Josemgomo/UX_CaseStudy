@@ -316,9 +316,13 @@ Tabla y asignación de personas para las pruebas.
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para evaluar la usabilidad y la experiencia de usuario tanto de nuestra aplicación como de la propuesta de "Re-Made in Granada", hemos diseñado un protocolo de pruebas que combina observación, cuestionarios específicos y el uso del estándar System Usability Scale (SUS).
 
+En primer lugar solicitaremos a los usuarios que se registren en una actividad en el caso de ser la propuesta A y en el caso de la propuesta B que se registren en un taller para que sean acciones similares. Luego realizaremos una serie de preguntas para obtener una valoracion global de ambas propuestas.
 
+En segundo lugar, se llevara a cabo una prueba de eye tracking únicamente sobre la propuesta "Re-Made in Granada", con el objetivo de analizar visualmente qué elementos captan más la atención del usuario y detectar posibles puntos de confusión o distracción en su diseño.
+
+En tercer lugar, realizaremos un cuestionario SUS formado por diez preguntas para ambas propuestas, este apartado evalúa distintos aspectos del uso de la aplicación y una valoración general que permite obtener una calificacion cuantitativa. Las preguntas se valoraran en un rango desde 1 (no estoy nada de acuerdo) hasta 5 (estoy muy de acuerdo), lo que facilitará una comparación clara de las fortalezas y debilidades de cada propuesta.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
