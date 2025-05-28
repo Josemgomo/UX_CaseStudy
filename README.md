@@ -298,7 +298,7 @@ Este Landing Page ha sido diseñada con el objetivo de atraer, informar y motiva
 ![Método UX](img/usability-testing.png)
 -----
 
-El caso que tenemos que analizar es el proyecto DIU3-Chapuzas: https://github.com/DIU3-Chapuzas/UX_CaseStudy
+El caso que tenemos que analizar es el proyecto DIU3-Chapuzas: https://github.com/DIU3-Chapuzas/UX_CaseStudy.
 Se encargan de  mejorar la experiencia y aumentar la participación en los diferentes eventos y talleres sobre productos ecológicos y sostenibles.
 Tabla y asignación de personas para las pruebas.
 
@@ -306,8 +306,10 @@ Tabla y asignación de personas para las pruebas.
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Usuario 1  | H / 22   | Estudiante  | Alta       | Introvertido | Móvil       | A 
 | Usuario 2  | H / 21   | Estudiante  | Alta       | Ambicioso       | Móvil        | A 
-| Usuario 3  | M / 35   | Cajero     | Baja        | Empático    | Móvil      | B 
+| Usuario 3  | M / 35   | Cajero     | Media        | Empático    | Móvil      | A
 | Usuario 4  | H / 53   | Empresario  | Alta       | Seguro     | Móvil        | B 
+| Usuario 5  | M / 18   | Estudiante     | Media        | Simpático    | Móvil      | B
+| Usuario 6  | H / 67   | Jubilado  | Baja       | Extrovertido     | Móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
