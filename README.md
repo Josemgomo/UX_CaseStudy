@@ -298,17 +298,16 @@ Este Landing Page ha sido diseñada con el objetivo de atraer, informar y motiva
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
+El caso que tenemos que analizar es el proyecto DIU3-Chapuzas: https://github.com/DIU3-Chapuzas/UX_CaseStudy
+Se encargan de  mejorar la experiencia y aumentar la participación en los diferentes eventos y talleres sobre productos ecológicos y sostenibles.
+Tabla y asignación de personas para las pruebas.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuario 1  | H / 22   | Estudiante  | Alta       | Introvertido | Móvil       | A 
+| Usuario 2  | H / 21   | Estudiante  | Alta       | Ambicioso       | Móvil        | A 
+| Usuario 3  | M / 35   | Cajero     | Baja        | Empático    | Móvil      | B 
+| Usuario 4  | H / 53   | Empresario  | Alta       | Seguro     | Móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
