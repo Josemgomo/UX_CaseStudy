@@ -305,7 +305,7 @@ Tabla y asignación de personas para las pruebas.
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Usuario 1  | H / 22   | Estudiante  | Alta       | Introvertido | Móvil       | A 
-| Usuario 2  | H / 21   | Estudiante  | Alta       | Ambicioso       | Móvil        | A 
+| Usuario 2  | H / 42   | Taxista  | Alta       | Ambicioso       | Móvil        | A 
 | Usuario 3  | M / 35   | Cajera     | Media        | Empática    | Móvil      | A
 | Usuario 4  | H / 53   | Empresario  | Alta       | Seguro     | Móvil        | B 
 | Usuario 5  | M / 18   | Estudiante     | Media        | Simpática    | Móvil      | B
