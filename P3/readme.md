@@ -11,7 +11,6 @@
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
 # 1. Moodboard.
----
 Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPERLÓGICO. A través de una cuidada selección tipográfica, una paleta de colores inspirada en el entorno granadino y una iconografía clara y coherente, buscamos transmitir un equilibrio entre tradición y modernidad, naturaleza y bienestar. Cada decisión estética refuerza nuestros valores: sostenibilidad, salud y conexión con lo auténtico.
 
 ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/1_Moodboard/Moodboard%20-%20SUPERLOGICO.png)
@@ -29,7 +28,12 @@ Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPE
 
 ![image](https://github.com/user-attachments/assets/6f3349ba-f15b-4d5a-8dd0-8d21518cc762)
 
+# 3. Guidelines.
+Los Guidelines son los patrones de diseño que hemos utilizado para el diseño de SUPERLÓGICO, y que mostramos a continuación:
 
+# 4. Mockup.
+
+# 5.
 
 
 
