@@ -239,7 +239,10 @@ Enlace Labelling: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/5_2_L
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+ Los bocetos que se muestran son ejemplos de como sería el diseño de nuestra web en el inicio de sesión (ejemplo de la izquierda) y de un listado de productos ordenados por precio y mostrados en forma de lista (ejemplo de la derecha).  
+ ![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/6-Bocetos/Bocetos.png)
+ - El enlace a este recurso en Figma es: https://www.figma.com/design/LOf3aZGqCJpwkVB9QD9S1h/Bocetos?node-id=0-1&p=f&t=ndWnUhpdYvCJ1GTV-0
+ - Y en formato PDF: https://github.com/Josemgomo/UX_CaseStudy/blob/master/P2/6-Bocetos/Bocetos.pdf
 
 <br>
 
