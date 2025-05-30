@@ -7,9 +7,6 @@
 
 ## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
-
 # 1. Moodboard.
 Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPERLÓGICO. A través de una cuidada selección tipográfica, una paleta de colores inspirada en el entorno granadino y una iconografía clara y coherente, buscamos transmitir un equilibrio entre tradición y modernidad, naturaleza y bienestar. Cada decisión estética refuerza nuestros valores: sostenibilidad, salud y conexión con lo auténtico.
 
@@ -43,12 +40,8 @@ Para poder ver como sería la parte del usuario de nuestro Mockup, podéis pinch
 
 # 5. Publicación de mi Case Study y Conclusión.
 
+El Case Study ha sido publicado en el equipo de nuestra clase de prácticas, es decir, el del grupo 1: [DIU1 Mier](https://www.figma.com/files/team/1106633524895873186/project/81449076/DIU1--Mierc-?fuid=1476640992852717821).
 
-
-
-
-
-
-
+Podemos sacar como conclusión que, como equipo, nos ha permitido aprender sobre como desarrollar UX, siguiendo una serie de patrones y herramientas, así como aprender más sobre la herramienta Figma. Por ello, hemos conectado con los valores de nuestra propuesta SUPERLÓGICO y los hemos en una propuesta digital coherente. 
 
   
