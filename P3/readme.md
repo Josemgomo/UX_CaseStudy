@@ -29,6 +29,11 @@ Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPE
 ![image](https://github.com/user-attachments/assets/6f3349ba-f15b-4d5a-8dd0-8d21518cc762)
 
 # 3. Guidelines.
+Los Guidelines son los patrones de diseño que hemos utilizado para el diseño de SUPERLÓGICO, y que mostramos a continuación:
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%201.png)
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%202.png)
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%203.png)
+  - El enlace a este recurso en PDF es : [Guidelines - SUPERLOGICO en PDF](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guidelines%20-%20SUPERLOGICO.pdf)
 
 # 4. Mockup.
 
