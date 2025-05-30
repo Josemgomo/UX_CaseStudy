@@ -334,7 +334,24 @@ En tercer lugar, realizaremos un cuestionario SUS formado por diez preguntas par
 
 Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante hemos usamos la calculadora que dejaremos en el siguiente enlace:[Calculadora SUS](https://stuart-cunningham.github.io/sus/). 
 
-Para cada usuario de los que mencionamos en los apartados anteriores, le hemos formulado las mismas 10 preguntas a todos, y los resultados que hemos obtenido para cada uno de ellos ha sidO:
+Para cada usuario de los que mencionamos en los apartados anteriores, le hemos formulado las mismas 10 preguntas a todos, y los resultados que hemos obtenido para cada uno de ellos ha sido:
+- Usuario 1 (A1):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/A_1.png)
+
+- Usuario 2 (A2):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/A_2.png)
+
+- Usuario 3 (A3):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/A_3.png)
+
+- Usuario 4 (B1):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/B_1.png)
+
+- Usuario 5 (B2):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/B_2.png)
+
+- Usuario 6 (B3):
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Puntuaciones_SUS/B_3.png)
 
 En resumen, los resultados obtenidos (SUS SCORE) han sido:
 - Para el prototipo A (SUPERLÓGICO):
@@ -344,9 +361,9 @@ En resumen, los resultados obtenidos (SUS SCORE) han sido:
  - Suma total: 210
 
 - Para el prototipo B (Re-Chapuzeando Re-Made in Granada):
- - Usuario 1 (A1): 85, B
- - Usuario 2 (A2): 55, F
- - Usuario 1 (A1): 35, F
+ - Usuario 4 (B1): 85, B
+ - Usuario 5 (B2): 55, F
+ - Usuario 6 (B1): 35, F
  - Suma total: 175
 
 Como podemos observar, el prototipo A ha sido mejor que el prototipo B, con una diferencia de 35 puntos. El principal problema que han tenido los usuarios en el prototipo B, como podemos observar en las imágenes que muestran los resultados de los tests es que enceuntran el sistema un poco difícil de usar ya que venían con unas espectativas más altas en cuanto a su fácil manejo y se han encontrado con una realidad que es totalmente distinta.
