@@ -261,10 +261,11 @@ Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPE
 Este Landing Page ha sido diseñada con el objetivo de atraer, informar y motivar a los usuarios a participar en actividades ecológicas ofrecidas por SUPERLÓGICO. La estructura visual y el contenido están cuidadosamente pensados para transmitir los valores de sostenibilidad, comunidad y bienestar.
 - Se han utilizado imágenes relacionadas con la agricultura ecológica, la comunidad y el bienestar natural para conectar emocionalmente con el usuario y reforzar el mensaje ecológico de la marca.
 - La información se organiza en bloques numerados (01, 02) que guían al usuario a través de un recorrido visual intuitivo y ordenado.
-- El botón "QUIERO PARTICIPAR" está estratégicamente colocado en una zona visible
+- El botón "VISITANOS" está estratégicamente colocado en una zona visible
 - El texto busca inspirar al usuario a actuar, utilizando frases positivas que refuercen sus valores.
 
-![image](https://github.com/user-attachments/assets/6f3349ba-f15b-4d5a-8dd0-8d21518cc762)
+![image](https://github.com/user-attachments/assets/7fd9a595-9f94-4dca-b239-1eada978d333)
+
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
