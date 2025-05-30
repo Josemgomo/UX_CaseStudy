@@ -5,11 +5,11 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercado ecológico)
 
 Grupo: DIU1_JoséÁngel.  Curso: 2024/25 
 
-Actualizado: 15/04/2025
+Actualizado: 30/05/2025
 
 Proyecto: 
 
-**SUPERLÓGICO - Tu supermercado ecológico de Granada.**
+**SUPERLÓGICO - Porque ser saludable y respetuoso es lo más lógico..**
 
 Descripción: 
 
@@ -245,16 +245,14 @@ Enlace Labelling: https://github.com/Josemgomo/UX_CaseStudy/tree/master/P2/5_2_L
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPERLÓGICO. A través de una cuidada selección tipográfica, una paleta de colores inspirada en el entorno granadino y una iconografía clara y coherente, buscamos transmitir un equilibrio entre tradición y modernidad, naturaleza y bienestar. Cada decisión estética refuerza nuestros valores: sostenibilidad, salud y conexión con lo auténtico.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/1_Moodboard/Moodboard%20-%20SUPERLOGICO.png)
+  - El enlace a este recurso en Figma es: [Moodboard - SUPERLOGICO en Figma](https://www.figma.com/design/uoGgWMEuaoPT2egjyMueex/Moodboard---SUPERLOGICO?node-id=0-1&t=BxBe7HFTgIVhx9hz-1)
+  - Y en formato PDF: [Moodboard - SUPERLOGICO en PDF](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/1_Moodboard/Moodboard%20-%20SUPERLOGICO.pdf)
 
 
 ### 3.b Landing Page
