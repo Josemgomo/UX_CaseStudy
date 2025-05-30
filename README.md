@@ -33,7 +33,7 @@ No estás solo: formar parte de SUPERLÓGICO es rodearte de personas que quieren
 
 Logotipo: 
 
-![image](https://github.com/user-attachments/assets/aa9fc222-d78a-437b-89a7-7d76affc06fd)
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/Logo_mediano.png)
 
 
 Miembros:
