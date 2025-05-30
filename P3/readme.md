@@ -36,8 +36,12 @@ Los Guidelines son los patrones de diseño que hemos utilizado para el diseño d
   - El enlace a este recurso en PDF es : [Guidelines - SUPERLOGICO en PDF](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guidelines%20-%20SUPERLOGICO.pdf)
 
 # 4. Mockup.
+Este mockup representa la versión visual final de la interfaz de SUPERLÓGICO, aplicando todos los elementos definidos en el moodboard: tipografías, colores, iconografía y estructura. Refleja cómo se verá la experiencia real del usuario en dispositivos móviles, mostrando una propuesta coherente, atractiva y alineada con los valores de sostenibilidad, bienestar y cercanía que definen la marca.
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/4_Mockup/Mockup%20-%20SUPERLOGICO.png)
 
-# 5.
+Para poder ver como sería la parte del usuario de nuestro Mockup, podéis pinchar en el siguiente enlace: [Probar Mockup de SUPERLOGICO en Iphone 16 Pro](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651)
+
+# 5. Publicación de mi Case Study y Conclusión.
 
 
 
