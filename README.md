@@ -7,9 +7,7 @@ Grupo: DIU1_JoséÁngel.  Curso: 2024/25
 
 Actualizado: 30/05/2025
 
-Proyecto: 
-
-**SUPERLÓGICO - Porque ser saludable y respetuoso es lo más lógico..**
+Proyecto: **SUPERLÓGICO - Porque ser saludable y respetuoso es lo más lógico..**
 
 Descripción: 
 
@@ -294,7 +292,7 @@ Para poder ver como sería la parte del usuario de nuestro Mockup, podéis pinch
 
 El Case Study ha sido publicado en el equipo de nuestra clase de prácticas, es decir, el del grupo 1: [DIU1 Mier](https://www.figma.com/files/team/1106633524895873186/project/81449076/DIU1--Mierc-?fuid=1476640992852717821).
 
-También, mostramos el siguiente vídeo donde se muestra nuestro Layout en acción. El enlace al vídeo es: [Ver video del Mockup](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651) Recordamos que podéis probarlo vosostros mismos en el siguiente enlace: [Probar Mockup de SUPERLOGICO en Iphone 16 Pro](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651)
+También, mostramos el siguiente vídeo donde se muestra nuestro Layout en acción. El enlace al vídeo es: [Ver video del Mockup](https://drive.google.com/file/d/1x5rlsjF0O6jMSlMLQ1k-pFcnbXA7OCWQ/view?usp=sharing) Recordamos que podéis probarlo vosostros mismos en el siguiente enlace: [Probar Mockup de SUPERLOGICO en Iphone 16 Pro](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651)
 
 <br>
 
