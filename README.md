@@ -270,24 +270,28 @@ Este Landing Page ha sido diseñada con el objetivo de atraer, informar y motiva
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Los Guidelines son los patrones de diseño que hemos utilizado para el diseño de SUPERLÓGICO, y que mostramos a continuación:
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%201.png)
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%202.png)
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guideline%20-%20SUPERLOGICO%20-%203.png)
+  - El enlace a este recurso en PDF es : [Guidelines - SUPERLOGICO en PDF](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/3_Guidelines/Guidelines%20-%20SUPERLOGICO.pdf)
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+Este mockup representa la versión visual final de la interfaz de SUPERLÓGICO, aplicando todos los elementos definidos en el moodboard: tipografías, colores, iconografía y estructura. Refleja cómo se verá la experiencia real del usuario en dispositivos móviles, mostrando una propuesta coherente, atractiva y alineada con los valores de sostenibilidad, bienestar y cercanía que definen la marca.
+![image](https://github.com/Josemgomo/UX_CaseStudy/blob/master/P3/4_Mockup/Mockup%20-%20SUPERLOGICO.png)
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+Para poder ver como sería la parte del usuario de nuestro Mockup, podéis pinchar en el siguiente enlace: [Probar Mockup de SUPERLOGICO en Iphone 16 Pro](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651)
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+El Case Study ha sido publicado en el equipo de nuestra clase de prácticas, es decir, el del grupo 1: [DIU1 Mier](https://www.figma.com/files/team/1106633524895873186/project/81449076/DIU1--Mierc-?fuid=1476640992852717821).
+
+También, mostramos el siguiente vídeo donde se muestra nuestro Layout en acción. El enlace al vídeo es: [Ver video del Mockup](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651) Recordamos que podéis probarlo vosostros mismos en el siguiente enlace: [Probar Mockup de SUPERLOGICO en Iphone 16 Pro](https://www.figma.com/proto/tyGnr0sOKk39jbJDYCbMLF/Mockup--SUPERLOGICO?node-id=68-1417&p=f&t=dP9XuNEd0NbuHTeJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=62%3A651)
 
 <br>
 
