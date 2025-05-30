@@ -302,7 +302,7 @@ También, mostramos el siguiente vídeo donde se muestra nuestro Layout en acci�
 ![Método UX](img/usability-testing.png)
 -----
 
-El caso que tenemos que analizar es el proyecto DIU3-Chapuzas: https://github.com/DIU3-Chapuzas/UX_CaseStudy.
+El caso que tenemos que analizar es el proyecto [DIU3-Chapuzas](https://github.com/DIU3-Chapuzas/UX_CaseStudy). 
 Se encargan de  mejorar la experiencia y aumentar la participación en los diferentes eventos y talleres sobre productos ecológicos y sostenibles.
 Tabla y asignación de personas para las pruebas.
 
@@ -332,11 +332,24 @@ En tercer lugar, realizaremos un cuestionario SUS formado por diez preguntas par
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante hemos usamos la calculadora que dejaremos en el siguiente enlace:[Calculadora SUS](https://stuart-cunningham.github.io/sus/). 
 
+Para cada usuario de los que mencionamos en los apartados anteriores, le hemos formulado las mismas 10 preguntas a todos, y los resultados que hemos obtenido para cada uno de ellos ha sidO:
+
+En resumen, los resultados obtenidos (SUS SCORE) han sido:
+- Para el prototipo A (SUPERLÓGICO):
+ - Usuario 1 (A1): 72.5, C
+ - Usuario 2 (A2): 85, B
+ - Usuario 3 (A3): 52.5, F
+ - Suma total: 210
+
+- Para el prototipo B (Re-Chapuzeando Re-Made in Granada):
+ - Usuario 1 (A1): 85, B
+ - Usuario 2 (A2): 55, F
+ - Usuario 1 (A1): 35, F
+ - Suma total: 175
+
+Como podemos observar, el prototipo A ha sido mejor que el prototipo B, con una diferencia de 35 puntos. El principal problema que han tenido los usuarios en el prototipo B, como podemos observar en las imágenes que muestran los resultados de los tests es que enceuntran el sistema un poco difícil de usar ya que venían con unas espectativas más altas en cuanto a su fácil manejo y se han encontrado con una realidad que es totalmente distinta.
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
