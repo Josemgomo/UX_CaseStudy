@@ -1,12 +1,5 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
-
-## Conclusiones
-
 # 1. Moodboard.
 Este moodboard recoge los elementos visuales esenciales que dan identidad a SUPERLÓGICO. A través de una cuidada selección tipográfica, una paleta de colores inspirada en el entorno granadino y una iconografía clara y coherente, buscamos transmitir un equilibrio entre tradición y modernidad, naturaleza y bienestar. Cada decisión estética refuerza nuestros valores: sostenibilidad, salud y conexión con lo auténtico.
 
