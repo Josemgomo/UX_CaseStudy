@@ -404,14 +404,15 @@ El enlace al informe de Usabilidad:
 
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Usability-Report-template.md
 
-
-
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+A lo largo de estas prácticas, hemos asumido el rol de diseñadores de interfaces de usuario y hemos comprendido que la clave para lograr un buen diseño es poner siempre al usuario en el centro. Nuestro objetivo principal ha sido ofrecer una experiencia de uso lo más satisfactoria posible, cuidando cada detalle de la interacción con la página o aplicación.
+Para ello, llevamos a cabo un caso de estudio completo que incluyó desde el análisis de una web existente hasta el diseño y creación del prototipo de nuestra propia propuesta. Esta experiencia nos enseñó la importancia de fijarnos en los pequeños detalles, ya que muchas veces son los que marcan la diferencia en términos de usabilidad y percepción del usuario.
+Además, hemos aprendido a utilizar Figma, una herramienta que aunque al principio nos resultó un poco compleja, nos permitió dar forma a nuestras ideas de forma visual y colaborativa. El trabajo en equipo fue clave durante todo el proceso: compartir ideas, debatir enfoques y tomar decisiones conjuntas enriqueció mucho el resultado final, del que nos sentimos orgullosas.
+En resumen, estas prácticas nos han permitido adquirir conocimientos valiosos sobre diseño de interfaces que, sin duda, aplicaremos en proyectos futuros, tanto en el ámbito académico como en el profesional.
 
 
 
