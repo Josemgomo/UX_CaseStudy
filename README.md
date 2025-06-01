@@ -378,13 +378,17 @@ Como podemos observar, el prototipo A ha sido mejor que el prototipo B, con una 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para realizar el experimento hemos pedido al usuario que se intente inscribir en un taller para realizar un seguimiento y ver cuales son los puntos clave del diseño de la pagina.
 
+![image](https://github.com/user-attachments/assets/ca36cd79-d49d-4e26-9bd8-758fa6aff746)
+![image](https://github.com/user-attachments/assets/d28148f6-e41d-4017-be0e-c5995eff9d41)
+![image](https://github.com/user-attachments/assets/194dca71-0586-4fce-8637-21902cfbba2f)
+![image](https://github.com/user-attachments/assets/23d6c949-114f-4511-b11e-0c3b73eee315)
+
+Respecto a la herramienta hemos utilizado Gaze Recorder.
 
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
 ### 4.f Usability Report de B
