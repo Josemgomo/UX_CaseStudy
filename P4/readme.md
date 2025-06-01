@@ -95,3 +95,6 @@ Respecto a la herramienta hemos utilizado Gaze Recorder.
 El enlace al informe de Usabilidad:
 
 https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Usability-Report-template.md
+
+## 7. Conclusión
+Tras realizar las pruebas con ambos prototipos, comprobamos que el prototipo A obtuvo mejores resultados de usabilidad y satisfacción, siendo más fácil de usar y generando más confianza entre los usuarios. El prototipo B mostró potencial, pero necesita mejorar la coherencia y facilidad de uso. Las herramientas empleadas, como el cuestionario SUS y el eye tracking, nos permitieron identificar claramente los puntos fuertes y débiles de cada propuesta. Estos resultados nos servirán de base para seguir mejorando la experiencia de usuario de cara a futuras actualizaciones.
