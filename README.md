@@ -400,11 +400,9 @@ Respecto a la herramienta hemos utilizado Gaze Recorder.
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+El enlace al informe de Usabilidad:
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+https://github.com/Josemgomo/UX_CaseStudy/blob/master/P4/Usability-Report-template.md
 
 
 
