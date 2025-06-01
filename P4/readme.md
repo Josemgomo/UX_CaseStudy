@@ -90,3 +90,18 @@ Para realizar el experimento hemos pedido al usuario que se intente inscribir en
 ![image](https://github.com/user-attachments/assets/7f0def79-791e-463b-8c21-dbebaf52c989)
 
 Respecto a la herramienta hemos utilizado Gaze Recorder.
+
+# 4. A/B Testing
+
+Para realizar el A/B Testing no hemos basaado en los resultados del cuestionario SUS que som bastante utilies para realizar una comparativa.
+Prototipo A:
+Los usuarios que han evaluado la App 1 han mostrado una percepción generalmente positiva respecto a su uso. Coinciden en que se trata de un sistema que usarían con frecuencia y que resulta fácil de utilizar, aunque algunos han expresado ciertas dudas sobre aspectos como la complejidad o la consistencia del sistema. Por ejemplo, si bien las funciones están bien integradas según la mayoría, hay cierta sensación de que podría haber alguna inconsistencia en el diseño o en los flujos de interacción, lo cual puede generar momentos de duda.
+
+En cuanto al aprendizaje, la mayoría considera que no sería necesario apoyo técnico para utilizar la app, lo cual indica una curva de aprendizaje razonablemente baja. Aun así, un usuario indicó que tal vez necesitaría ayuda, lo que podría señalar que la interfaz tiene áreas que no son del todo intuitivas para todos los perfiles.
+
+Protoripo B:
+Las opiniones de los usuarios son algo más variadas, con una mayor dispersión en las respuestas, lo que refleja una experiencia de usuario más desigual. Algunos usuarios han valorado muy positivamente la facilidad de uso y han señalado que no necesitaron ayuda externa para aprender a utilizar el sistema, lo que es un punto fuerte. También se destaca la impresión de que el sistema es funcional y podría ser adoptado rápidamente por otros usuarios.
+
+Sin embargo, hay también señales claras de que la experiencia no ha sido completamente uniforme. Uno de los usuarios indicó que el sistema era inconsistente y que necesitaba aprender muchas cosas antes de poder usarlo correctamente. Además, la percepción de seguridad al usar el sistema fue un poco baja, lo cual puede influir negativamente en la confianza del usuario.
+
+El prototipo resulta más robusto en cuanto a percepción de usabilidad global, mientras que el B tiene potencial, pero necesita ajustes para mejorar la coherencia y confianza de uso percibida por todos los perfiles de usuario.
