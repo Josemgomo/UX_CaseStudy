@@ -20,8 +20,6 @@ https://github.com/DIU3-Chapuzas/UX_CaseStudy
 
 ### Realizado por: DIU3-Chapuzas
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
 EL objetivo de pa pagina consiste en mejorar la experiencia y aumentar la participación en los diferentes eventos y talleres sobre productos ecológicos y sostenibles, haciendo más accesible y sencilla dicha participación, permitiendo a los usuarios inscribirse en los talleres.
