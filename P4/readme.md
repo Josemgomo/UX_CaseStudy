@@ -79,3 +79,14 @@ En resumen, los resultados obtenidos (SUS SCORE) han sido:
  - Suma total: 175
 
 Como podemos observar, el prototipo A ha sido mejor que el prototipo B, con una diferencia de 35 puntos. El principal problema que han tenido los usuarios en el prototipo B, como podemos observar en las imágenes que muestran los resultados de los tests es que enceuntran el sistema un poco difícil de usar ya que venían con unas espectativas más altas en cuanto a su fácil manejo y se han encontrado con una realidad que es totalmente distinta.
+
+# 4. Eye Tracking
+
+Para realizar el experimento hemos pedido al usuario que se intente inscribir en un taller para realizar un seguimiento y ver cuales son los puntos clave del diseño de la pagina.
+
+![image](https://github.com/user-attachments/assets/6b264eec-7583-4bb7-a911-d3141a733b88)
+![image](https://github.com/user-attachments/assets/5d12e84f-8e0b-46b2-9855-b1c9a49a3e46)
+![image](https://github.com/user-attachments/assets/97a5de68-10d4-45f7-b47c-40aee0c2c67e)
+![image](https://github.com/user-attachments/assets/7f0def79-791e-463b-8c21-dbebaf52c989)
+
+Respecto a la herramienta hemos utilizado Gaze Recorder.
