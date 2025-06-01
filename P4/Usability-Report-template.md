@@ -46,6 +46,7 @@ Los participantes asignados a la propuesta B fueron:
 | Usuario 4  | H / 53   | Empresario  | Alta       | Seguro     | Móvil        | B 
 | Usuario 5  | M / 18   | Estudiante     | Media        | Simpática    | Móvil      | B
 | Usuario 6  | H / 67   | Jubilado  | Baja       | Extrovertido     | Móvil        | B
+
 Para evaluar la usabilidad y la experiencia de usuario de "Re-Made in Granada", hemos diseñado un protocolo de pruebas que combina observación, cuestionarios específicos y el uso del estándar System Usability Scale (SUS).
 
 En primer lugar realizamos un A/B Testing piediendoles que realizaran una tarea concreta, para comparar ambos proyectos, este informe se apoyo en el custionario SUS.
