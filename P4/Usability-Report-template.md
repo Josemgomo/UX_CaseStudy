@@ -22,7 +22,7 @@
 
 
 
-### Realizado por:
+### Realizado por: https://github.com/DIU3-Chapuzas/UX_CaseStudy
 
 [Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
 
