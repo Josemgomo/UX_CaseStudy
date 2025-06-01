@@ -387,10 +387,6 @@ Para realizar el experimento hemos pedido al usuario que se intente inscribir en
 
 Respecto a la herramienta hemos utilizado Gaze Recorder.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
-
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
